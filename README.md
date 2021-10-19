@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Scientist, Kaggle Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikandan" alt="manikandan" /></a> </p>
 
@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan-professional&" alt="Manikandan-professional" /></p>
 
-<p><img align="center" src="//*[@id="js-pjax-container"]/div[2]/div/div[2]/div[2]/div/div[3]/div[1]/div/div/div/svg?user=Manikandan-professional&" alt="Manikandan-professional" /></p>
 
 <!--
 
