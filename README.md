@@ -2,9 +2,9 @@
 
 <h3 align="center">Data Scientist, Kaggle Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan-professional" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikandan" alt="manikandan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manikandan-professional" alt="Manikandan-professional" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
