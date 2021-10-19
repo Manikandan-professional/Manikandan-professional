@@ -1,19 +1,3 @@
-### Hi there 👋 I am Manikandan G.
-
-- 🔭 I’m currently working on Data Analytics
-
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-
-- 👯 I’m looking to collaborate on Data Science projects
-
-- 💬 Ask me about anything
-
-- 📫 How to reach me: https://bit.ly/3pi3hOu
-
-- 😄 Pronouns: Me
-
-- ⚡ Fun fact: Exploring Food
-
 <h1 align="center">Hi 👋, I'm xyz</h1>
 <h3 align="center">Data Scientist, Kaggle Contributor</h3>
 
@@ -23,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Data Science projects**
 
-- 📫 How to reach me **linkedlink**
+- 📫 How to reach me **https://bit.ly/3pi3hOu**
 
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
