@@ -18,8 +18,9 @@
 
 - ⚡ Created **6** End to End Deployment Product and launched in Cloud.
 
-- ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
+- ⚡ Currently working on RainFall Data Analytics.
 
+- ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
