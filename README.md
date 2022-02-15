@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **https://bit.ly/3pi3hOu**
 
+- ⚡ Created **6** End to End Deployment Product and launched in Cloud.
+
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
 
