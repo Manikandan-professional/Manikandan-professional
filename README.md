@@ -18,7 +18,7 @@
 
 - ⚡ Created **6** End to End Deployment Product and launched in Cloud.
 
-- ⚡ Currently working on RainFall Data Analytics.
+- ⚡ Currently working on Analytics of Shark Tank India Dataset.
 
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
