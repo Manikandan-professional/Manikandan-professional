@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://bit.ly/3pi3hOu**
 
-- ⚡ Created **6** End to End Deployment Product and launched in Cloud.
+- ⚡ Created **7** End to End Deployment Product and launched in Cloud.
 
 - ⚡ Currently working on Analytics of Shark Tank India Dataset.
 
