@@ -18,6 +18,8 @@
 
 - ⚡ Created **7** End to End Deployment Product and launched in Cloud.
 
+- ⚡ Developing an software of Machine Learning Algorithmic Backend Usage machine.
+
 - ⚡ Currently working on Analytics of Shark Tank India Dataset.
 
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
