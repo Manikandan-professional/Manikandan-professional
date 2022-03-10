@@ -18,7 +18,7 @@
 
 - ⚡ Created **7** End to End Deployment Product and launched in Cloud.
 
-- ⚡ Developing an software of Machine Learning Algorithmic Backend Usage machine.
+- ⚡ Developing an software of Machine Learning Algorithmic Backend Usage machine (Progress 15%).
 
 - ⚡ Currently working on Analytics of Shark Tank India Dataset.
 
