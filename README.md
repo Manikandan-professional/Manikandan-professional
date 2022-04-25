@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 📫 How to reach me **https://bit.ly/3pi3hOu**
-
 - ⚡ Created **7** End to End Deployment Product and launched in Cloud.
 
 - ⚡ Developing an software of Machine Learning Algorithmic Backend Usage machine (Progress 15%).
