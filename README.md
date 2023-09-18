@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manikandan G</h1>
 
-<h3 align="center">Data Scientist, Kaggle Contributor</h3>
+<h3 align="center">Data Scientist, Kaggle Contributor, Mentor</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manikandan-professional)](https://github.com/Manikandan-professional/)
@@ -10,15 +10,15 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently working on **Machine Learning and Artificial Intelligence** projects
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- ⚡ Created **7** End to End Deployment Product and launched in Cloud.
+- ⚡ Created **17** End to End Deployment Product and launched in Cloud.
 
-- ⚡ Developing an software of Machine Learning Algorithmic Backend Usage machine (Progress 15%).
+- ⚡ Developing an software of Machine Learning Algorithms.
 
-- ⚡ Currently working on Analytics of Shark Tank India Dataset.
+- ⚡ Currently working on some of the interesting projects.
 
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
