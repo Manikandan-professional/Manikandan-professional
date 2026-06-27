@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manikandan G</h1>
 
-<h3 align="center">Data Scientist, Kaggle Contributor, Mentor</h3>
+<h3 align="center">Data Science Manager, Kaggle Contributor, Mentor</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manikandan-professional)](https://github.com/Manikandan-professional/)
