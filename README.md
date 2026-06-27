@@ -6,19 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan-professional" /> </p>
 
 
-
-- 🌱 I’m currently working on **Machine Learning and Artificial Intelligence** projects
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- ⚡ Created **17** End to End Deployment Product and launched in Cloud.
-
-- ⚡ Developing an software of Machine Learning Algorithms.
-
-- ⚡ Currently working on some of the interesting projects.
-
-- ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
-
 - 🌱 I’m currently architecting advanced **Machine Learning & Artificial Intelligence** systems.
 
 - 👯 I’m looking to collaborate on high-impact, open-source **Data Science initiatives**.
