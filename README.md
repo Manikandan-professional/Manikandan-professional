@@ -19,6 +19,19 @@
 
 - ⚡ Fun fact **I am addictive to drug named 'F()()D'.**
 
+- 🌱 I’m currently architecting advanced **Machine Learning & Artificial Intelligence** systems.
+
+- 👯 I’m looking to collaborate on high-impact, open-source **Data Science initiatives**.
+
+- ⚡ Successfully engineered & launched **17 end-to-end production models** to the cloud.
+
+- ⚡ Building a specialized framework designed to scale **Machine Learning Algorithms**.
+
+- ⚡ Cracking complex datasets and turning raw code into intelligent, real-world solutions.
+
+- ⚡ Fun fact: I have an intense chemical dependency on a compound known as `F(O)(O)D`.
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a>&ensp; 
