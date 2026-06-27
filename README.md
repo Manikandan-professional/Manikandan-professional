@@ -3,9 +3,6 @@
 <h3 align="center">Data Science Manager, Kaggle Contributor, Mentor</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manikandan-professional)](https://github.com/Manikandan-professional/)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan-professional" /> </p>
 
 
