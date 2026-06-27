@@ -40,12 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manikandan-professional&show_icons=true&locale=en" alt="Manikandan-professional" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan-professional&" alt="Manikandan-professional" /></p>
-
-<!--
-
-**Manikandan-professional/Manikandan-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
- Update this in more attractive way Keep the same design dont change anything but represent it in a more attractive way as this is my landing page
